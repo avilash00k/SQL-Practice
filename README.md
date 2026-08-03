@@ -1,13 +1,38 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0175-combine-two-tables](https://github.com/avilash00k/SQL-Practice/tree/master/0175-combine-two-tables) |
-| [0176-second-highest-salary](https://github.com/avilash00k/SQL-Practice/tree/master/0176-second-highest-salary) |
-| [0182-duplicate-emails](https://github.com/avilash00k/SQL-Practice/tree/master/0182-duplicate-emails) |
-| [1068-product-sales-analysis-i](https://github.com/avilash00k/SQL-Practice/tree/master/1068-product-sales-analysis-i) |
-| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/avilash00k/SQL-Practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
-| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/avilash00k/SQL-Practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
-<!---LeetCode Topics End-->
+# SQL LeetCode Solutions
+
+This repository contains my SQL solutions to LeetCode Database problems. The solutions demonstrate my understanding of SQL fundamentals and relational database concepts through practical query-writing exercises.
+
+## Problems Covered
+
+- Combine Two Tables
+- Second Highest Salary
+- Duplicate Emails
+- Product Sales Analysis I
+- Replace Employee ID With The Unique Identifier
+- Customer Who Visited but Did Not Make Any Transactions
+- Confirmation Rate
+
+## SQL Concepts Practiced
+
+- SELECT Statements
+- WHERE Clause
+- INNER JOIN & LEFT JOIN
+- GROUP BY
+- Aggregate Functions
+- DISTINCT
+- Subqueries
+- NULL Handling
+- Data Filtering
+- Sorting and Query Optimization
+
+## Purpose
+
+This repository showcases my SQL problem solving skills through LeetCode database challenges. Each solution is implemented using ANSI SQL while focusing on correctness, readability, and efficient query design.
+
+## Language
+
+- ANSI SQL
+
+---
+
+*These solutions were written by me as part of my SQL practice and interview preparation.*
